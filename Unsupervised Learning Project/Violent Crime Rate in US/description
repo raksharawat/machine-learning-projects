@@ -1,0 +1,13 @@
+Project Name: Violent Crime Rates by US State
+
+Dataset Name: US Arrests
+
+Dataset Description: This data set contains statistics in arrests per 100,000 residents for assault, murder, and rape in each of the 50 US states in 1973. Also given is the percent of the population living in urban areas.
+
+Attributes Description: 
+A data frame with 50 observations on 4 variables.
+1. An unnamed column which contains US State
+2. Murder: Murder arrests per 100,000 (numeric)
+3. Assault: Assault arrests per 100,000 (numeric)
+4. UrbanPop: Percent urban population (numeric)
+5. Rape: Rape arrests (per 100,000)
